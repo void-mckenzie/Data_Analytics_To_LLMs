@@ -1,0 +1,15 @@
+1. https://youtu.be/ijeEYFnS2v4?si=ZBZqcCCjJOeyGW44  - Data Analysis basics, when to use what test.
+
+2. https://youtu.be/xZ_z8KWkhXE?si=tirJ9zfcsMxxu4fs  - Pearson Correlation (the left out regression)
+
+3. https://youtu.be/wHatBwHLrnA?si=30a_KB8jPMOb5eL4  - Correlation vs Regression, why are they similar and how are they different
+
+4. https://youtu.be/fYStutigCkE?si=UP_sTnVnY0m6E_0m  - Multiple Regression, Why do we need and how do we get P-Values for the variables
+
+5. https://youtu.be/4b4MUYve_U8?si=iV1UtQxEnqYONVat  - Linear Regression - a Machine Learning approach (goated lecture) skip a bit and watch if it's too math heavy
+
+6. https://youtu.be/-inJu1jHqb8?si=WRxPInRiP0TFC8Kp  - How to select variables to use in Linear Regression (Back to statistics). Forward addition, backward elimination, etc.
+
+Bonus playlist - a bit lengthy, but I loved learning this. Post-Hoc tests in ANOVA
+
+https://youtu.be/ScURUucPADs?si=iAk5MQOxwTUs2kLK - how error propagates if we have mutiple comparisons in ANOVA and how we correct it.
